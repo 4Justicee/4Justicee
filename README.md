@@ -34,15 +34,6 @@ Here's a quick overview of the main technologies I work with:
 - **Databases**: MySQL, MongoDB, PostgreSQL  
 - **DevOps and Version Control**: Docker, Git, GitHub Actions  
 
-## Contributions  
-
-I am always excited to collaborate on projects and innovative, cutting-edge ideas. If you're interested in teaming up, feel free to fork this repository or contact me directly.  
-
-## Connect with Me  
-
-- **Telegram**: @greyhat4
-- **Email**: dcadenknight111@gmail.com
-
 Thank you for visiting my repository, and I look forward to connecting with fellow developers and gamers alike!
 
 <!--
