@@ -4,7 +4,7 @@ Welcome to my GitHub project! As a Full Stack and AI Engineer with a recent spec
 
 ## About Me  
 
-Hello! I'm Caden, a passionate Full Stack Developer and AI Engineer. Over the past few years, I have been channeling my skills into the fascinating world of game development, blending AI technology with engaging gameplay mechanics to create unique gaming experiences. Here, you'll find projects that showcase my skills in everything from backend APIs to front-end interfaces and AI integrations in games.  
+Hello! I am a Grey Hat who follows my own moral compass, sometimes engaging in actions for the greater good, and other times stepping into less ethically clear territories. Also I'm a devoted and enthusiastic Full Stack Developer and AI Engineer. In recent years, I've directed my expertise towards the exciting realm of game development, merging AI technology with captivating gameplay mechanics to forge distinctive gaming experiences. In this space, you'll discover projects that highlight my proficiency across various domains, from backend APIs to front-end interfaces and AI implementations in games.
 
 ## Projects Overview  
 
