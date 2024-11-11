@@ -11,7 +11,7 @@ Hello! I am a Grey Hat who follows my own moral compass, sometimes engaging in a
 Here are some of the projects I've worked on. They range from web applications demonstrating full stack capabilities to AI-driven games:  
 
 ### Full Stack Projects  
-- **Sportbook website*: A dynamic web application tailored for sports betting, developed utilizing a robust stack including Express, Node.js, React.js, EJS, TypeScript, MySQL, and RESTful APIs.  
+- **Sportbook website**: A dynamic web application tailored for sports betting, developed utilizing a robust stack including Express, Node.js, React.js, EJS, TypeScript, MySQL, and RESTful APIs.  
 - **Music engine website**: An advanced audio and video streaming platform engineered with real-time capabilities, primarily built using PHP among other technologies. 
 ...
   
