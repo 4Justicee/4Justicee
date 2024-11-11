@@ -11,16 +11,18 @@ Hello! I am a Grey Hat who follows my own moral compass, sometimes engaging in a
 Here are some of the projects I've worked on. They range from web applications demonstrating full stack capabilities to AI-driven games:  
 
 ### Full Stack Projects  
-- **Project Name 1**: A web application for [describe purpose or function]. Built with [technologies used].  
-- **Project Name 2**: An e-commerce platform with real-time capabilities. Developed using [technologies used].  
-
+- **Sportbook website*: A dynamic web application tailored for sports betting, developed utilizing a robust stack including Express, Node.js, React.js, EJS, TypeScript, MySQL, and RESTful APIs.  
+- **Music engine website**: An advanced audio and video streaming platform engineered with real-time capabilities, primarily built using PHP among other technologies. 
+...
+  
 ### AI Projects  
-- **AI Chatbot**: An intelligent conversational agent, designed to [describe purpose or functionality]. Implemented using [technologies used].  
-- **AI Image Recognition System**: A tool that [describe what it does], using [technologies used].  
+- **Aimbot**: A sophisticated game-enhancing application designed for precision aiming assistance in gaming, crafted using Python, C, C++, and rootkit technology.  
+- **colony-processing**: A specialized tool for distinguishing biological colonies on dishes, implemented using Python and PyTorch.  
 
 ### Game Development Projects  
-- **Game Title 1**: An adventure game featuring AI-driven NPCs. Created using [game engine and technologies].  
-- **Game Title 2**: A puzzle platformer with real-time learning AI challenges. Built with [game engine and technologies].  
+- **T3Game**: Enhanced with visually appealing graphics and a user-friendly interface, it provides a simple yet engaging experience for all ages.  
+- **Casino Game**: This comprehensive gaming platform features a wide array of casino games, including original slots, table games like blackjack and poker, and unique custom games designed to offer a thrilling casino experience.  
+- **Nez Game**: A JavaScript-based NES (Nintendo Entertainment System) emulator that allows players to relive classic NES games directly in their web browser.
 
 ## Technologies  
 
