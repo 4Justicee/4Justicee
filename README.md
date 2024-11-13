@@ -4,7 +4,7 @@ Welcome to my GitHub project! As a Full Stack and AI Engineer with a recent spec
 
 ## About Me  
 
-Hello! I am a Grey Hat who follows my own moral compass, sometimes engaging in actions for the greater good, and other times stepping into less ethically clear territories. Also I'm a devoted and enthusiastic Full Stack Developer and AI Engineer. In recent years, I've directed my expertise towards the exciting realm of game development, merging AI technology with captivating gameplay mechanics to forge distinctive gaming experiences. In this space, you'll discover projects that highlight my proficiency across various domains, from backend APIs to front-end interfaces and AI implementations in games. As a Grey Hat, I possess an extensive collection of gaming resources, including casino game website sources and fully developed game sources, all personally crafted by me. These are securely stored in a private repository. I am keen to collaborate with game developers, players, and particularly casino investors to explore and expand opportunities within the gaming industry.
+Hello! I am a Grey Hat who follows my own moral compass, sometimes engaging in actions for the greater good, and other times stepping into less ethically clear territories. Also I'm a devoted and enthusiastic Full Stack Developer and AI Engineer. In recent years, I've directed my expertise towards the exciting realm of game development, merging AI technology with captivating gameplay mechanics to forge distinctive gaming experiences. In this space, you'll discover projects that highlight my proficiency across various domains, from backend APIs to front-end interfaces and AI implementations in games.
 
 ## Projects Overview  
 
