@@ -21,7 +21,6 @@ Here are some of the projects I've worked on. They range from web applications d
 
 ### Game Development Projects  
 - **T3Game**: Enhanced with visually appealing graphics and a user-friendly interface, it provides a simple yet engaging experience for all ages.  
-- **Casino Game**: This comprehensive gaming platform features a wide array of casino games, including original slots, table games like blackjack and poker, and unique custom games designed to offer a thrilling casino experience.  
 - **Nez Game**: A JavaScript-based NES (Nintendo Entertainment System) emulator that allows players to relive classic NES games directly in their web browser.
 
 ## Technologies  
