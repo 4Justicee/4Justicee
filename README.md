@@ -33,6 +33,8 @@ Here's a quick overview of the main technologies I work with:
 - **Databases**: MySQL, MongoDB, PostgreSQL  
 - **DevOps and Version Control**: Docker, Git, GitHub Actions  
 
+Private repositories will be visible to collaborators and colleagues.
+
 Thank you for visiting my repository, and I look forward to connecting with fellow developers and gamers alike!
 
 <!--
