@@ -1,6 +1,6 @@
 # Hi There
 
-Welcome to my GitHub project! As a Full Stack and AI Engineer with a recent specialization in Game Development, this repository reflects my ongoing journey and projects at the intersection of web technologies, artificial intelligence, and immersive game experiences.  
+Welcome to my GitHub project! As a Full Stack, Game and AI Engineer with a recent specialization in Game Development, this repository reflects my ongoing journey and projects at the intersection of web technologies, artificial intelligence, and immersive game experiences.  
 
 ## About Me  
 
@@ -13,7 +13,7 @@ Here are some of the projects I've worked on. They range from web applications d
 ### Full Stack Projects  
 - **Sportbook website**: A dynamic web application tailored for sports betting, developed utilizing a robust stack including Express, Node.js, React.js, EJS, TypeScript, MySQL, and RESTful APIs.  
 - **Music engine website**: An advanced audio and video streaming platform engineered with real-time capabilities, primarily built using PHP among other technologies. 
-...
+- ...
   
 ### AI Projects  
 - **Aimbot**: A sophisticated game-enhancing application designed for precision aiming assistance in gaming, crafted using Python, C, C++, and rootkit technology.  
@@ -22,11 +22,12 @@ Here are some of the projects I've worked on. They range from web applications d
 ### Game Development Projects  
 - **T3Game**: Enhanced with visually appealing graphics and a user-friendly interface, it provides a simple yet engaging experience for all ages.  
 - **Nez Game**: A JavaScript-based NES (Nintendo Entertainment System) emulator that allows players to relive classic NES games directly in their web browser.
-
+- ...
+  
 ## Technologies  
 
 Here's a quick overview of the main technologies I work with:  
-- **Frontend**: HTML, CSS, JavaScript, ReactJS  
+- **Frontend**: HTML, CSS, JavaScript, ReactJS
 - **Backend**: Node.js, Express, Python, Django  
 - **AI & Machine Learning**: TensorFlow, PyTorch, Keras  
 - **Game Development**: Pixi, Phaser, Unity, Unreal Engine
